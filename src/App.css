@@ -1,15 +1,24 @@
 body{
-  background-color:#ebd5d5;
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("./images/wallpaperflare.com_wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
 }
-.App .container{
+.App{
   max-width:960px;
+  margin:0 auto;
+  font-family: 'Poppins', sans-serif;
 }
 .App-header{
   text-align: center;
-  font-size: 64px;
-  color:darkmagenta;
+  font-size: 74px;
+  font-weight: bold;
+  color:whitesmoke;
 }
 
 footer{
   margin:20px 0;
+  font-size:15px;
+  color:whitesmoke;
+
+
 }
