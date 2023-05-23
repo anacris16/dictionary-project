@@ -1,6 +1,9 @@
 body{
   background-color:#ebd5d5;
 }
+.App .container{
+  max-width:960px;
+}
 .App-header{
   text-align: center;
   font-size: 64px;
