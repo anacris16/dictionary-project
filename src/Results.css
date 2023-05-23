@@ -1,0 +1,20 @@
+.Results section{
+    background: white;
+    padding: 30px;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    margin: 20px 0;
+}
+
+.Results  section h2{
+    font-size:30px;
+    font-weight:bold;
+    text-transform: capitalize;
+}
+
+.Results section h3{
+ font-size:18px;
+ margin-top:-15px;
+opacity: 0.5;
+font-weight: bold;
+}

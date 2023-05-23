@@ -1,0 +1,12 @@
+.Meaning{
+    background: white;
+    padding: 30px;
+    border-radius: 6px;
+    box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    margin: 20px 0;
+}
+
+.Meaning .example{
+    font-size:16px;
+    opacity:0.6;
+}
